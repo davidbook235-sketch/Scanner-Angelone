@@ -1,0 +1,12 @@
+streamlit>=1.36.0
+streamlit-autorefresh>=1.0.1
+pandas>=2.0.0
+numpy>=1.24.0
+smartapi-python>=1.5.5
+pyotp>=2.9.0
+yfinance>=0.2.40
+ta>=0.11.0
+plotly>=5.20.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pytz>=2024.1
